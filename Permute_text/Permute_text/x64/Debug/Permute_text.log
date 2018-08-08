@@ -1,0 +1,3 @@
+﻿  Permute_text.cpp
+c:\permute_text\permute_text\permute_text.cpp(36): warning C4101: 'r': unreferenced local variable
+  Permute_text.vcxproj -> C:\Permute_text\x64\Debug\Permute_text.exe
