@@ -1,0 +1,5 @@
+﻿  Colored_Image_Sharing.cpp
+c:\colored_image_sharing\colored_image_sharing\colored_image_sharing.cpp(101): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\colored_image_sharing\colored_image_sharing\colored_image_sharing.cpp(103): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\colored_image_sharing\colored_image_sharing\colored_image_sharing.cpp(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Colored_Image_Sharing.vcxproj -> C:\Colored_Image_Sharing\x64\Debug\Colored_Image_Sharing.exe
