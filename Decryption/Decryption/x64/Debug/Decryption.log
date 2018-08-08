@@ -1,0 +1,4 @@
+﻿  Decryption.cpp
+c:\decryption\decryption\decryption.cpp(69): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+c:\decryption\decryption\decryption.cpp(72): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  Decryption.vcxproj -> C:\Decryption\x64\Debug\Decryption.exe
